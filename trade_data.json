@@ -1,0 +1,1318 @@
+{
+  "goods": [
+    {
+      "name": "품짜릿 오렏지",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 577,
+          "sell": 527,
+          "stock": 15,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 780,
+          "sell": 722,
+          "stock": 14,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 573,
+          "sell": 533,
+          "stock": 17,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 558,
+          "sell": 500,
+          "stock": 14,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 436,
+          "sell": 420,
+          "stock": 19,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 461,
+          "sell": 420,
+          "stock": 19,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_023957.png"
+    },
+    {
+      "name": "이으 아고스E",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 591,
+          "sell": 540,
+          "stock": 19,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 507,
+          "sell": 455,
+          "stock": 21,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 789,
+          "sell": 712,
+          "stock": 14,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 577,
+          "sell": 476,
+          "stock": 18,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 798,
+          "sell": 778,
+          "stock": 21,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 552,
+          "sell": 520,
+          "stock": 19,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_023959.png"
+    },
+    {
+      "name": "트로LI컬 과일 바구니",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 1499,
+          "sell": 1415,
+          "stock": 6,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": null,
+          "sell": 1166,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": null,
+          "sell": 1162,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": null,
+          "sell": 1666,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": null,
+          "sell": 1456,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": null,
+          "sell": 1724,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024000.png"
+    },
+    {
+      "name": "생크림 양털 *XI",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 715,
+          "sell": 660,
+          "stock": 13,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 583,
+          "sell": 560,
+          "stock": 18,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 910,
+          "sell": 825,
+          "stock": 17,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 753,
+          "sell": 678,
+          "stock": 18,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 656,
+          "sell": 603,
+          "stock": 14,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 608,
+          "sell": 525,
+          "stock": 18,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024002.png"
+    },
+    {
+      "name": "신선한 팩우9",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 666,
+          "sell": 617,
+          "stock": 14,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 975,
+          "sell": 897,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 642,
+          "sell": 590,
+          "stock": 13,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 959,
+          "sell": 872,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 657,
+          "sell": 584,
+          "stock": 16,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 762,
+          "sell": 715,
+          "stock": 18,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024003.png"
+    },
+    {
+      "name": "사르르 Q결트 아이스",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": null,
+          "sell": 2578,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 1967,
+          "sell": 1765,
+          "stock": 5,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": null,
+          "sell": 1727,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": null,
+          "sell": 2121,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": null,
+          "sell": 1972,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": null,
+          "sell": 1540,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024005.png"
+    },
+    {
+      "name": "수박 물고기",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 872,
+          "sell": 861,
+          "stock": 15,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 864,
+          "sell": 843,
+          "stock": 14,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 914,
+          "sell": 958,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 627,
+          "sell": 642,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 671,
+          "sell": 734,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 894,
+          "sell": 858,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024006.png"
+    },
+    {
+      "name": "코코넛 꽃께",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 834,
+          "sell": 860,
+          "stock": 15,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 661,
+          "sell": 676,
+          "stock": 13,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 611,
+          "sell": 624,
+          "stock": 16,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 710,
+          "sell": 712,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 995,
+          "sell": 1088,
+          "stock": 14,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 788,
+          "sell": 793,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024009.png"
+    },
+    {
+      "name": "붕어빵 굴비",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": null,
+          "sell": 3289,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": null,
+          "sell": 2166,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 2048,
+          "sell": 1921,
+          "stock": 4,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": null,
+          "sell": 2152,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": null,
+          "sell": 2080,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": null,
+          "sell": 2438,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024011.png"
+    },
+    {
+      "name": "젤리푸당 크리스탈",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 774,
+          "sell": 722,
+          "stock": 13,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 1007,
+          "sell": 882,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 1170,
+          "sell": 1101,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 875,
+          "sell": 757,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 1028,
+          "sell": 940,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 833,
+          "sell": 777,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024013.png"
+    },
+    {
+      "name": "조개 속 설탕 진주",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 1103,
+          "sell": 989,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 1235,
+          "sell": 1128,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 1078,
+          "sell": 977,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 1162,
+          "sell": 1103,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 1113,
+          "sell": 1014,
+          "stock": 12,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 731,
+          "sell": 665,
+          "stock": 13,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024014.png"
+    },
+    {
+      "name": "보석 사탕 반지",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": null,
+          "sell": 2707,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": null,
+          "sell": 3165,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": null,
+          "sell": 3448,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 3195,
+          "sell": 2790,
+          "stock": 7,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": null,
+          "sell": 2749,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": null,
+          "sell": 2570,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024016.png"
+    },
+    {
+      "name": "인형",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 1022,
+          "sell": 894,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 647,
+          "sell": 558,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 928,
+          "sell": 838,
+          "stock": 9,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 1300,
+          "sell": 1205,
+          "stock": 8,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 887,
+          "sell": 765,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 1237,
+          "sell": 1098,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024017.png"
+    },
+    {
+      "name": "정교한 아온드 조각탈",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 924,
+          "sell": 894,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 1317,
+          "sell": 1190,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 1194,
+          "sell": 1064,
+          "stock": 9,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 1022,
+          "sell": 914,
+          "stock": 9,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 1117,
+          "sell": 965,
+          "stock": 8,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 1378,
+          "sell": 1212,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024019.png"
+    },
+    {
+      "name": "곱돌이 OI",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": null,
+          "sell": 3009,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": null,
+          "sell": 2612,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": null,
+          "sell": 2721,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": null,
+          "sell": 3812,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 3335,
+          "sell": 3191,
+          "stock": 5,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": null,
+          "sell": 3700,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024020.png"
+    },
+    {
+      "name": "유자 Å수벳",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 643,
+          "sell": 597,
+          "stock": 15,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 706,
+          "sell": 666,
+          "stock": 16,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 1092,
+          "sell": 1007,
+          "stock": 13,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 821,
+          "sell": 741,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 973,
+          "sell": 846,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 887,
+          "sell": 794,
+          "stock": 16,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024022.png"
+    },
+    {
+      "name": "꽁꽁 물고기",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": 1365,
+          "sell": 1305,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": 1159,
+          "sell": 1064,
+          "stock": 11,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": 922,
+          "sell": 811,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": 893,
+          "sell": 820,
+          "stock": 10,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": 1257,
+          "sell": 1165,
+          "stock": 9,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 1256,
+          "sell": 1135,
+          "stock": 8,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024023.png"
+    },
+    {
+      "name": "전장한 공필근l 얼음상",
+      "active": true,
+      "markets": {
+        "농부들의 섬": {
+          "buy": null,
+          "sell": 3773,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "목동들의 섬": {
+          "buy": null,
+          "sell": 3582,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "어부들의 섬": {
+          "buy": null,
+          "sell": 3772,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "감정가들의 섬": {
+          "buy": null,
+          "sell": 2450,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "장인들의 섬": {
+          "buy": null,
+          "sell": 3600,
+          "stock": null,
+          "buy_unavailable": true,
+          "sell_unavailable": false,
+          "stock_unavailable": true,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        },
+        "조각가들의 섬": {
+          "buy": 4541,
+          "sell": 3914,
+          "stock": 4,
+          "buy_unavailable": false,
+          "sell_unavailable": false,
+          "stock_unavailable": false,
+          "buy_review": false,
+          "sell_review": false,
+          "stock_review": false
+        }
+      },
+      "source_file": "C:/Users/home/Documents/ezCapture/Capture_2026_0726_024025.png"
+    }
+  ]
+}

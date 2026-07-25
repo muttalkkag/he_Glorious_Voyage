@@ -1,0 +1,255 @@
+{
+  "capture_monitor": 1,
+  "capture_delay": 0.12,
+  "regions": {
+    "product_name": [
+      127,
+      13,
+      526,
+      67
+    ],
+    "buy_column": [
+      271,
+      342,
+      376,
+      611
+    ],
+    "sell_column": [
+      400,
+      340,
+      505,
+      611
+    ],
+    "stock_column": [
+      550,
+      339,
+      621,
+      610
+    ]
+  },
+  "region_screen_size": [
+    666,
+    612
+  ],
+  "distance_matrix": [
+    [
+      0,
+      7,
+      4,
+      7,
+      4,
+      6
+    ],
+    [
+      7,
+      0,
+      4,
+      4,
+      5,
+      9
+    ],
+    [
+      4,
+      4,
+      0,
+      5,
+      4,
+      6
+    ],
+    [
+      7,
+      4,
+      5,
+      0,
+      8,
+      6
+    ],
+    [
+      4,
+      5,
+      4,
+      8,
+      0,
+      9
+    ],
+    [
+      6,
+      9,
+      6,
+      6,
+      9,
+      0
+    ]
+  ],
+  "map_calibration": {
+    "points": [
+      [
+        1408,
+        635
+      ],
+      [
+        1533,
+        633
+      ],
+      [
+        1591,
+        703
+      ],
+      [
+        1591,
+        992
+      ],
+      [
+        1900,
+        349
+      ],
+      [
+        1592,
+        560
+      ],
+      [
+        2021,
+        630
+      ],
+      [
+        1287,
+        349
+      ],
+      [
+        1163,
+        638
+      ]
+    ],
+    "hex_coordinates": [
+      [
+        -6,
+        5
+      ],
+      [
+        10,
+        -4
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        -4
+      ],
+      [
+        -2,
+        0
+      ]
+    ]
+  },
+  "ocr_price_max": 9999,
+  "ocr_stock_max": 99,
+  "route_solve_limit": 1200,
+  "slot_islands": [
+    "목동들의 섬",
+    "장인들의 섬",
+    "감정가들의 섬",
+    "어부들의 섬",
+    "농부들의 섬",
+    "조각가들의 섬"
+  ],
+  "fixed_slot_distance_matrix": [
+    [
+      0,
+      5,
+      4,
+      4,
+      7,
+      9
+    ],
+    [
+      5,
+      0,
+      8,
+      4,
+      4,
+      9
+    ],
+    [
+      4,
+      8,
+      0,
+      5,
+      7,
+      6
+    ],
+    [
+      4,
+      4,
+      5,
+      0,
+      4,
+      6
+    ],
+    [
+      7,
+      4,
+      7,
+      4,
+      0,
+      6
+    ],
+    [
+      9,
+      9,
+      6,
+      6,
+      6,
+      0
+    ]
+  ],
+  "required_islands": [],
+  "hex_map": {
+    "enabled": true,
+    "orientation": "pointy_top_odd_r",
+    "cols": 17,
+    "rows": 19,
+    "blocked": [],
+    "repairs": [],
+    "slots": {
+      "북서쪽": [
+        5,
+        5
+      ],
+      "북동쪽": [
+        10,
+        5
+      ],
+      "서쪽": [
+        4,
+        9
+      ],
+      "중앙": [
+        8,
+        8
+      ],
+      "동쪽": [
+        11,
+        9
+      ],
+      "남쪽": [
+        8,
+        14
+      ]
+    },
+    "repair_value": 350,
+    "move_durability_cost": 100,
+    "repair_repeatable": false,
+    "max_pair_options": 12
+  },
+  "max_durability": 5600,
+  "route_objective": "이번 회차 코인 최대",
+  "forbidden_islands": [],
+  "auto_balance_cycle_turns": 15,
+  "ocr_gpu_enabled": true
+}
