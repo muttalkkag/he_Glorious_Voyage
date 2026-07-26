@@ -5,7 +5,7 @@
 수익이 높은 구매·판매 동선을 계산하는 비공식 보조 프로그램입니다.
 
 <p align="center">
-  <img src="./2.png" alt="프로그램 화면" width="900">
+  <img src="./7.png" alt="프로그램 화면" width="900">
 </p>
 
 ---
